@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.containerPrincipal{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 900px;
+    height: 500px;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.container_one{
+    background-color: black;
+    width: 30%;
+}
+
+.container_two{
+    background-color: grey;
+    width: 70%;
+}
+
+.container_one_section1 {
+    background: url('https://images3.alphacoders.com/119/1196184.png');
+    background-size: cover;
+    border-radius: 20px;
+    height: 33%;
+    width: 100%;
+}
+
+.container_one_section2 {
+    background: url();
+    height: 33%;
+}
+
+.container_one_section3 {
+    background: url('https://images8.alphacoders.com/119/1196183.png');
+    background-size: cover;
+    height: 34%;
+}
+.container_two_section1{
+    height: 50%;
+    display: flex;
+}
+
+.container_two_section1_1 {
+    background: url('https://images8.alphacoders.com/119/1196186.png');
+    background-size: cover;
+    width: 70%;
+}
+
+.container_two_section1_2 {
+    background-color: grey;
+    width: 30%;
+}
+
+.container_two_section2 {
+    height: 50%;
+    display: flex;
+}
+
+.container_two_section2_1 {
+    background-color: white;
+    background-size: cover;
+    width: 30%;
+}
+
+.container_two_section2_2 {
+    background: url('https://images5.alphacoders.com/119/1196187.png');
+    background-size: cover;
+    width: 70%;
+}
+
+.container_two_section1_2part1{
+    background: url('https://images4.alphacoders.com/124/1248087.jpg');
+    background-size: cover;
+    height: 33%;
+}
+
+.container_two_section1_2part2 {
+    background: url('https://images3.alphacoders.com/517/51789.jpg');
+    background-size: cover;
+    height: 33%;
+}
+
+.container_two_section1_2part3{
+    background: url('https://images3.alphacoders.com/823/82399.jpg');
+    background-size: cover;
+    height: 34%;
+}
+
+.container_two_section2_1part1 {
+    background: url('https://images7.alphacoders.com/671/671281.jpg');
+    background-size: cover;
+    height: 33%;
+}
+
+.container_two_section2_1part2 {
+    background: url('https://images2.alphacoders.com/191/19102.png');
+    background-size: cover;
+    height: 33%;
+}
+
+.container_two_section2_1part3 {
+    background: url('https://images2.alphacoders.com/265/26500.jpg');
+    background-size: cover;
+    height: 34%;
+}
+
+.container_one_section2_1, .container_one_section2_2{
+    display: flex;
+    height: 50%;
+}
+
+.container_one_section2_1part1, .container_one_section2_2part1{
+    background: url('https://images4.alphacoders.com/114/11436.png');
+    background-size: cover;
+    width: 50%;
+}
+
+.container_one_section2_1part2, .container_one_section2_2part2 {
+    background: url('https://images2.alphacoders.com/191/19102.png');
+    background-size: cover;
+    width: 50%;
+}
